@@ -1,4 +1,4 @@
-Test Mod.exe:C:/Users/Ian/Documents/MyWebsite/PowderToyMod1.zip.
+Test Mod.exe: file:///C:/Users/Ian/Documents/MyWebsite/TestMod.html
 
 
 The Powder Toy - February 2020
