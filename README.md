@@ -1,4 +1,4 @@
-Test Mod.exe: https://#/home?url=https://github.com/DeathslayerTheAwesome/Exe-file?raw=true
+Test Mod.exe: https://drive.google.com/file/d/1O9c2SMAuYPcg6fOfqgLuuT5T8W_b9fxe/view?usp=sharing
 
 
 The Powder Toy - February 2020
