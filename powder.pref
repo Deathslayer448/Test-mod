@@ -1,0 +1,53 @@
+{
+	"Console" : 
+	{
+		"History" : 
+		[
+			"!part_delete(PT_GLSE)",
+			"!set type GLAS none"
+		]
+	},
+	"Decoration" : 
+	{
+		"Alpha" : 255,
+		"Blue" : 50,
+		"Green" : 100,
+		"Red" : 200
+	},
+	"Favorites" : null,
+	"MouseClickRequired" : false,
+	"Prop" : 
+	{
+		"Type" : 1,
+		"Value" : "349"
+	},
+	"Renderer" : 
+	{
+		"ColourMode" : 0,
+		"DebugMode" : true,
+		"Decorations" : true,
+		"DisplayModes" : null,
+		"GravityField" : true,
+		"RenderModes" : 
+		[
+			258944,
+			324480,
+			4278252144,
+			67171201
+		]
+	},
+	"Scale" : 2,
+	"Simulation" : 
+	{
+		"AmbientHeat" : 1,
+		"DecoSpace" : 0,
+		"EdgeMode" : 1,
+		"IncludePressure" : true,
+		"NewtonianGravity" : true,
+		"PrettyPowder" : 1,
+		"UndoHistoryLimit" : 5
+	},
+	"User" : null,
+	"WindowX" : 275,
+	"WindowY" : 96
+}
