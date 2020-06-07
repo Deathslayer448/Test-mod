@@ -1,4 +1,4 @@
-Test Mod.exe: https://downgit.github.io/#/home?url=https://github.com/DeathslayerTheAwesome/Exe-file?raw=true
+Test Mod.exe: https://#/home?url=https://github.com/DeathslayerTheAwesome/Exe-file?raw=true
 
 
 The Powder Toy - February 2020
